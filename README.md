@@ -4,8 +4,14 @@ the essentials of programming and working with data.
 
 ## Prerequisites
 
+### Python
 You should have a recent python installed in your computer and know how to open
 a terminal and execute a python script/command, e.g. `python -c "print('Hello')"`.
+A good choice could be [Python 3.10](https://www.python.org/downloads/)
+
+### Good to Have: Text Editor
+It will make your life easier if you have a text editor that supports syntax highlighting.
+A good choice could be [geany](https://www.geany.org/download/releases/).
  
 ## Session 1: Computers and Code
 - Read and write python code
